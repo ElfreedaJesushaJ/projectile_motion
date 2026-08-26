@@ -37,15 +37,3 @@ projectile_motion/
 ├── run_simulation.py
 ├── requirements.txt
 └── README.md
-
-## Future Advancements
-
-- Implement numerical integration using the Euler method
-- Implement higher-order methods such as Midpoint and Runge-Kutta 4 (RK4)
-- Compare numerical solutions with analytical solutions
-- Perform numerical error and convergence analysis
-- Analyze conservation of mechanical energy
-- Add air resistance and drag forces
-- Investigate how launch angle affects projectile range
-- Determine the optimal launch angle under different physical conditions
-- Add interactive controls for initial velocity, launch angle, and gravity
